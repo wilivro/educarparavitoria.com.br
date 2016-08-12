@@ -1,5 +1,5 @@
 # Site settings
-title: Estuda Mais Rio Largo
+title: Formação de Professores
 email: your-email@domain.com
 url: https://example.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
@@ -19,7 +19,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Estuda Mais Rio Largo
+  copyright: Formação de Professores
   location: ACESSE
   social: Around the Web
   credits: Credits
@@ -27,7 +27,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: flickr
-    url: http://flickr.com/vprrn10
+    url: http://flickr.com/
   - title: twitter
     url: http://twitter.com/jekyllrb
   - title: facebook
